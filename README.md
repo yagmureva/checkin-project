@@ -80,4 +80,6 @@ This section is intended for developers interested in setting up the application
    yarn start
 ```
 
-You can access the app by navigating to http://localhost:3000 in your web browser.
+You can access the app by navigating to http://localhost:3000 in your web browser.   
+
+
